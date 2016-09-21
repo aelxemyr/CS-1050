@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MinPriorityQueue()
+comment0.text=\r\n\ Creates\ a\ new\ empty\ min\ priority\ queue.\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\r\n\ Check\ whether\ queue\ is\ empty\ or\ not.\r\n\ @return\ true\ if\ queue\ is\ empty,\ false\ otherwise.\r\n
+comment2.params=vertex
+comment2.target=void\ insert(Vertex)
+comment2.text=\r\n\ Insert\ and\ sort\ a\ new\ vertex\ into\ the\ queue.\r\n\ @param\ vertex\ The\ vertex\ to\ insert.\r\n
+comment3.params=
+comment3.target=void\ updateNodes()
+comment3.text=\r\n\ Update\ the\ priority\ of\ the\ nodes\ in\ this\ queue.\r\n
+comment4.params=
+comment4.target=void\ sort()
+comment4.text=\r\n\ Update\ the\ priority\ of\ the\ nodes\ in\ this\ queue\ and\ sort\ accordingly.\r\n
+comment5.params=
+comment5.target=Vertex\ pop()
+comment5.text=\r\n\ Return\ and\ remove\ the\ first\ item\ in\ the\ queue.\r\n
+numComments=6

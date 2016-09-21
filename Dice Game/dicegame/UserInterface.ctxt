@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=message
+comment0.target=void\ showMessage(java.lang.String)
+comment0.text=\r\n\ Shows\ a\ message\ to\ the\ user.\r\n\ @param\ message\ the\ message\ to\ be\ shown\r\n
+comment1.params=question
+comment1.target=boolean\ askYesNoQuestion(java.lang.String)
+comment1.text=\r\n\ Asks\ a\ question\ and\ prompts\ for\ a\ Yes\ or\ No\ response.\ \r\n\ Returns\ true\ if\ user\ responds\ Yes;\ false\ otherwise.\r\n\ @param\ question\ the\ question\ to\ present\ to\ the\ user\r\n\ @return\ true\ if\ and\ only\ if\ the\ user\ indicates\ Yes\r\n
+comment2.params=prompt
+comment2.target=java.lang.String\ requestString(java.lang.String)
+comment2.text=\r\n\ Prompts\ then\ accepts\ and\ returns\ a\ user-entered\ string.\r\n\ @param\ prompt\ message\ to\ show\ user\r\n\ @return\ string\ entered\ by\ user\r\n
+numComments=3

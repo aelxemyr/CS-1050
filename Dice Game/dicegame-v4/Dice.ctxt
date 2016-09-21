@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numberOfSides
+comment0.target=Dice(int)
+comment0.text=\r\n\ Create\ a\ new\ Dice\ object\ with\ a\ given\ number\ of\ sides.\r\n\ \r\n\ @param\ numberOfSides\ the\ number\ of\ sides\ of\ this\ die\r\n
+comment1.params=
+comment1.target=int\ roll()
+comment1.text=\r\n\ Roll\ the\ die.\r\n\ \r\n\ @return\ the\ result\ of\ the\ roll;\ an\ integer\ between\ 1\ and\ the\ number\ of\ sides\ (inclusive)\r\n
+numComments=2

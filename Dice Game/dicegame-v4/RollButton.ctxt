@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=label
+comment0.target=RollButton(java.lang.String)
+comment1.params=
+comment1.target=boolean\ getStatus()
+comment2.params=status
+comment2.target=void\ setStatus(boolean)
+numComments=3

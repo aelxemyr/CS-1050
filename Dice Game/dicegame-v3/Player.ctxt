@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=stake
+comment0.target=Player(int)
+comment0.text=\r\n\ Create\ a\ new\ player\ with\ an\ initial\ stake\ value.\r\n\ \r\n\ @param\ stake\r\n
+comment1.params=
+comment1.target=int\ getStake()
+comment1.text=\r\n\ Return\ the\ player's\ current\ stake.\r\n
+comment2.params=amount
+comment2.target=void\ increaseStake(int)
+comment2.text=\r\n\ Increase\ the\ player's\ stake\ by\ a\ given\ amount.\r\n\ \r\n\ @param\ the\ amount\ by\ which\ to\ increase\ the\ stake\r\n
+comment3.params=amount
+comment3.target=void\ decreaseStake(int)
+comment3.text=\r\n\ Decrease\ the\ player's\ stake\ by\ a\ given\ amount.\r\n\ \r\n\ @param\ the\ amount\ by\ which\ to\ decrease\ the\ stake\r\n
+numComments=4

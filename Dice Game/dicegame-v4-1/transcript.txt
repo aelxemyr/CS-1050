@@ -1,0 +1,41 @@
+
+The Dice Game!
+
+You have 100 tokens.
+Playing a round will cost 10 tokens.
+Would you like to play?
+Yes or No: yes
+
+Comeout roll! Roll the dice.
+Rolling... You rolled a 10!
+Your point is 10. Roll the dice.
+
+Rolling... You rolled a 9!
+Rolling... You rolled a 5!
+Rolling... You rolled a 7!
+You lost!
+
+You have 90 tokens.
+Playing a round will cost 10 tokens.
+Would you like to play?
+Yes or No: yes
+
+Comeout roll! Roll the dice.
+Rolling... You rolled a 7!
+You win!
+
+You have 100 tokens.
+Playing a round will cost 10 tokens.
+Would you like to play?
+Yes or No: yes
+
+Comeout roll! Roll the dice.
+Rolling... You rolled a 7!
+You win!
+
+You have 110 tokens.
+Playing a round will cost 10 tokens.
+Would you like to play?
+Yes or No: no
+You retired with 110 tokens.
+Thank you for playing.

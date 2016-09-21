@@ -1,0 +1,6 @@
+The ''Dice Game'' is a game played with two fair, six-sided dice.  
+In each round, the player places a bet and the two dice are rolled. 
+If their result is a 7 or 11, the player wins. If the result is a 2, 3, or 12, the player loses. 
+If anything else is rolled, that value is established as the player's point for that round 
+and the dice are rolled again until either the point is rolled or a 7 is rolled. 
+If the point is rolled, the player wins. If a 7 is rolled, the player loses.

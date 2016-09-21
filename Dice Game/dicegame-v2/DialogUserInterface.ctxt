@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=DialogUserInterface(java.lang.String)
+comment0.text=\r\n\ Constructs\ user\ interface\ with\ specified\ title\ bar\ text.\r\n\ @param\ title\ text\ to\ be\ displayed\ in\ the\ title\ bar\r\n
+comment1.params=message
+comment1.target=void\ showMessage(java.lang.String)
+comment1.text=\r\n\ Show\ message\ requiring\ user\ only\ to\ acknowledge.\r\n\ @param\ message\ the\ message\ to\ be\ shown\r\n
+comment2.params=question
+comment2.target=boolean\ askYesNoQuestion(java.lang.String)
+comment2.text=\r\n\ Ask\ a\ question\ and\ prompt\ with\ Yes\ and\ No\ buttons.\r\n\ Return\ <code>true</code>\ if\ user\ selects\ Yes;\ <code>false</code>\ otherwise.\r\n\ @param\ question\ the\ question\ to\ present\ to\ the\ user\r\n\ @return\ <code>true</code>\ if\ and\ only\ if\ the\ user\ selects\ Yes.\r\n
+comment3.params=prompt
+comment3.target=java.lang.String\ requestString(java.lang.String)
+comment3.text=\r\n\ Prompt\ then\ accept\ and\ return\ a\ user-entered\ string.\r\n\ @param\ prompt\ message\ to\ show\ user\r\n\ @return\ string\ entered\ by\ user\r\n
+numComments=4
